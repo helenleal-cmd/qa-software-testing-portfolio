@@ -2,13 +2,13 @@
 
 Projeto prático de Quality Assurance desenvolvido com o objetivo de aplicar e documentar conhecimentos em testes de software.
 
-## 👩‍💻 Sobre o projeto
+## Sobre o projeto
 
 Sou estudante de Engenharia de Software e estou desenvolvendo este projeto como parte do meu aprendizado prático em Quality Assurance.
 
 O objetivo é simular atividades realizadas no dia a dia de QA, passando pelo planejamento dos testes, criação de cenários e casos de teste, execução, identificação de defeitos, documentação de bugs e registro de evidências.
 
-## 🎯 Objetivos
+## Objetivos
 
 - Compreender o processo de Quality Assurance
 - Elaborar cenários e casos de teste
@@ -18,9 +18,7 @@ O objetivo é simular atividades realizadas no dia a dia de QA, passando pelo pl
 - Praticar boas práticas de documentação
 - Evoluir posteriormente para testes de API, SQL e automação
 
-## 🧪 Tipos de testes
-
-Durante o projeto serão praticados:
+## Tipos de testes
 
 - Testes funcionais
 - Testes exploratórios
@@ -29,7 +27,7 @@ Durante o projeto serão praticados:
 - Testes de validação de campos
 - Testes de regressão
 
-## 🛠️ Ferramentas
+## Ferramentas
 
 Ao longo da evolução do projeto serão utilizadas ferramentas como:
 
@@ -41,7 +39,7 @@ Ao longo da evolução do projeto serão utilizadas ferramentas como:
 
 > Algumas ferramentas serão adicionadas gradualmente conforme o desenvolvimento e aprendizado do projeto.
 
-## 📂 Estrutura do projeto
+## Estrutura do projeto
 
 - `test-plan/` — planejamento e estratégia de testes
 - `test-cases/` — cenários e casos de teste
@@ -50,13 +48,13 @@ Ao longo da evolução do projeto serão utilizadas ferramentas como:
 - `api-testing/` — testes de API
 - `sql/` — consultas utilizadas em validações
 
-## 📈 Status
+## Status
 
-🚧 Projeto em desenvolvimento.
+**Projeto em desenvolvimento.**
 
 As etapas e evidências serão adicionadas progressivamente conforme a execução dos testes e evolução dos estudos.
 
-## 👤 Autora
+## Autora
 
 Helen Leal  
 Estudante de Engenharia de Software
